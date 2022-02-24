@@ -1,3 +1,10 @@
+token: 
+  expiration_time: 86400000
+  secret: '{cipher}AQCxrHO8EGMQxj4M1mL+lVV5l9wOYGlC+KlRV9hyWNr2e+QQvE0MbAZlRcFaIfp+ngQ9K1vHwgcZ0F+Z02Y2hyZZ9bSPVVpjhyIIDLxiujClIR0RXLRFEVt8Cz/dmV3I6yWQovk0t99qEl7jfJ01t8x+Lnuvs4gSqaG/W0rQe/Gk+vdOKF1ZAmmZ/BaNXWFfvcqXD5KfS2Q0PBQnKHQjSo2CFMpTOcEjfwKC6ItGZZqqA32hWRv5XGcys4Q27b8JkY8pVTdd7XaLpa86Kedv+YD8l+XtblyP015p+mXXR8bZWoAMZ58K5louQxaPMczT8KivVRTCsbTroUFSnAtXZBzyOS3+MO4ipGU1QeIgnOS5iDXoii1VlAlKvrGQq8wfYIo=' 
+
+gateway:
+  ip: 182.225.15.66
+
 spring:
   datasource:
     driver-class-name: org.h2.Driver
