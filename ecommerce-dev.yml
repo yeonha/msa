@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000000
+  secret: new_dev_secret
+
+gateway:
+  ip: 127.0.0.1
