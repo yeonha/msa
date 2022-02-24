@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: new_user_token_#3
+  secret: my_favorite_fruit_apple
 
 gateway:
   ip: 182.225.15.66
